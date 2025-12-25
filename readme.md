@@ -8,5 +8,3 @@ Developed a script using Python to evaluate and analyze LLM outputs across multi
 - run "py -m pip install numpy"
 - run the script with "py main.py"
 
-
-"# Image-Classification-with-Convolutional-Neural-Networks" 
