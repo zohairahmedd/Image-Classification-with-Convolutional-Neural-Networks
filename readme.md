@@ -1,5 +1,5 @@
 ## CIFAR-10 Image Classification with Convolutional Neural Networks
-Developed a script using Python to evaluate and analyze LLM outputs across multiple metrics.  
+Developed a script using Python to classify images from the CIFAR-10 dataset.
 - Utilized Tensorflow, numpy, & Matplotlib
 
 ## Commands
